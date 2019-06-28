@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Heroes of Brastlewark</string>
+    
+    <string name="name_detail">Nombre</string>
+    <string name="age_detail">Edad</string>
+    <string name="weight_detail">Peso</string>
+    <string name="height_detail">Altura</string>
+    <string name="hair_detail">Cabello</string>
+    <string name="professions_detail">Roles</string>
+    <string name="friends_detail">Aliados</string>
+
+    <string name="age_format">%1$d años.</string>
+    <string name="weight_format">%1$s Kg.</string>
+    <string name="height_format">%1$s cm.</string>
+    <string name="network_error">Verifique su conexion a Internet</string>
+    <string name="unknown_error">Algo salio mal intente mas tarde :(</string>
+</resources>
